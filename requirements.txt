@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+comtypes
+numpy
+pycaw
+"your_song.mp3", "song2.mp3", "song3.mp3","song1.mp3"
